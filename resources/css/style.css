@@ -1,0 +1,19 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div{
+    background-color: white;
+}
+
+.paragraph{
+    text-decoration: underline;
+    font-size: 11px;
+    margin-top: 4px;
+}
+
+
+#site-header{
+    color: black;
+    font-size: 32px;
+}
